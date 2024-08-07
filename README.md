@@ -46,53 +46,17 @@ Hello! I'm [DEVLOKER](https://www.dev-loker.com), a passionate full-stack develo
 ## Skills
 
 **Frontend:**
-- Bootstrap
-- MUI
-- Ant Design
-- React
-- JavaScript
-- TypeScript
-- React Native
+- Bootstrap, MUI, Ant Design, React, JavaScript, TypeScript, React Native
 
 **Backend:**
-- Node.js
-- Express
-- NestJS
-- Electron
-- Python
-- Flask
-- Java
-- OpenCV
-- SDK
+- Node.js, Express, NestJS, Electron, Python, Flask, Java, OpenCV, SDK
 
 **Databases:**
-- MySQL
-- MongoDB
+- MySQL, Postgres, MongoDB
 
 **Others:**
-- Git
-- Docker
-- Vitest
-- Playwright
-- Jira
-- Agile/Scrum
+- Git, Docker, Vitest, Playwright, Jira, Agile/Scrum
 
-## Projects
-
-### [Opéra Peinture](https://github.com/devloker/opera-peinture)
-An Android app for simulating painting wells.
-
-### [Fitnation](https://github.com/devloker/fitnation)
-A web app for tracking healthcare.
-
-### [Digitso Game](https://github.com/devloker/digitso-game)
-An Android puzzle game.
-
-### [Deep Consultation](https://github.com/devloker/deep-consultation)
-A MERN app for managing consultations.
-
-### [Watermarking Medical Images](https://github.com/devloker/watermarking-medical-images)
-A Python app for watermarking images.
 
 ## Awards & Accomplishments
 - Programmed a robot for a puzzle game, enabling it to identify four hidden digits and solve the puzzle with an average of 9/5040 possible cases.
