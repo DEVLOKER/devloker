@@ -103,5 +103,5 @@ A Python app for watermarking images.
 - **Portfolio:** [dev-loker.com](http://dev-loker.com)
 - **LinkedIn:** [linkedin.com/in/dev-loker](https://linkedin.com/in/dev-loker)
 - **GitHub:** [github.com/devloker](https://github.com/devloker)
-- **Upwork:** [upwork.com/~devloker](https://upwork.com/~devloker)
+<!--- **Upwork:** [upwork.com/~devloker](https://upwork.com/~devloker)-->
 - **Dev.to:** [dev.to/devloker](https://dev.to/devloker)
