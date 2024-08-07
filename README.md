@@ -64,8 +64,9 @@ Hello! I'm [DEVLOKER](https://www.dev-loker.com), a passionate full-stack develo
 
 ## Contact
 
-- **Portfolio:** [dev-loker.com](http://dev-loker.com)
+- **Dev.to:** [dev.to/devloker](https://dev.to/devloker)
 - **LinkedIn:** [linkedin.com/in/dev-loker](https://linkedin.com/in/dev-loker)
 - **GitHub:** [github.com/devloker](https://github.com/devloker)
+- **Portfolio:** [dev-loker.com](http://dev-loker.com)
 <!--- **Upwork:** [upwork.com/~devloker](https://upwork.com/~devloker)-->
-- **Dev.to:** [dev.to/devloker](https://dev.to/devloker)
+
