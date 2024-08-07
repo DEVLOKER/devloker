@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Full Stack Developer | MERN | NestJS | MySQL | Python
 
 Hello! I'm [DEVLOKER](https://www.dev-loker.com), a passionate full-stack developer with expertise in JavaScript frameworks (MERN), NestJS, MySQL, and Python. I enjoy building scalable web applications and continuously learning new technologies.
-
+<!--
 ## Work Experience
 
 ### Full Stack Developer, Upwork, Remote – Nov 2020 – Current
@@ -42,7 +42,7 @@ Hello! I'm [DEVLOKER](https://www.dev-loker.com), a passionate full-stack develo
 - Collaborated with two car insurance engineers to implement a JavaScript-based car insurance simulator, enhancing user experience.
 - Managed authentication and authorization processes using Azure B2C and NestJS, ensuring secure and scalable user management.
 - Planned, tracked, and managed 20+ short-term sprints and 5+ long-term deployments using Jira.
-
+-->
 ## Skills
 
 **Frontend:**
